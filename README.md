@@ -1,3 +1,5 @@
+![Blue Modern Corporate Staff Profile LinkedIn Banner (1)](https://github.com/user-attachments/assets/c89bd52b-7956-44db-9eb6-819a237166ac)
+
 # 💫 About Me:
 Soy un desarrollador web proactivo en constante evolución. Me apasiona la tecnología y disfruto aprendiendo nuevas habilidades. Actualmente estoy sumergido en el mundo de Java y Spring Framework, explorando las posibilidades de la inteligencia artificial para crear soluciones innovadoras, estoy entusiasmado por aplicar mis conocimientos en proyectos reales. Mi capacidad para adaptarme a los cambios me permite abordar desafíos complejos y encontrar soluciones creativas. Cuando no estoy codificando, me encuentro buscando oportunidades para aprender y crecer, tanto en el ámbito técnico como personal.
 ## 🌐 Socials:
